@@ -2,7 +2,7 @@ Ishank Gulati - NIT Jaipur
 Anuj Dhar - NIT Bhopal
 
 Shubham Agarwal - NIT Jaipur
-Aditi Srivastava - NIT Surat
+
 
 
 
@@ -13,3 +13,8 @@ subodh jain-nit bhopal
 Sumit Kumar Jain - NIT Jaipur
 
 
+
+
+Prasun Goyal - NIT Bhopal
+
+Aditi Srivastava - NIT Surat

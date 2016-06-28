@@ -1,0 +1,7 @@
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TejaCalculator\TejaCalculator\bin\Release\TejaCalculator.exe
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TejaCalculator\TejaCalculator\bin\Release\TejaCalculator.pdb
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TejaCalculator\TejaCalculator\bin\Release\RaviCalculator.dll
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TejaCalculator\TejaCalculator\bin\Release\RaviCalculator.pdb
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TejaCalculator\TejaCalculator\obj\Release\TejaCalculator.csprojResolveAssemblyReference.cache
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TejaCalculator\TejaCalculator\obj\Release\TejaCalculator.exe
+c:\users\ravi.teja\documents\visual studio 2013\Projects\TejaCalculator\TejaCalculator\obj\Release\TejaCalculator.pdb

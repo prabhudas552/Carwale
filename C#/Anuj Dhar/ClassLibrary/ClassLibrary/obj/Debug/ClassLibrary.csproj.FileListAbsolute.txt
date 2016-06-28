@@ -1,0 +1,5 @@
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -1,4 +1,0 @@
-c:\users\ravi.teja\documents\visual studio 2013\Projects\TejaCalculator\TejaCalculator\bin\Debug\TejaCalculator.exe
-c:\users\ravi.teja\documents\visual studio 2013\Projects\TejaCalculator\TejaCalculator\bin\Debug\TejaCalculator.pdb
-c:\users\ravi.teja\documents\visual studio 2013\Projects\TejaCalculator\TejaCalculator\obj\Debug\TejaCalculator.exe
-c:\users\ravi.teja\documents\visual studio 2013\Projects\TejaCalculator\TejaCalculator\obj\Debug\TejaCalculator.pdb

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TejaCalculator")]
+[assembly: AssemblyTitle("RaviCalculator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TejaCalculator")]
+[assembly: AssemblyProduct("RaviCalculator")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1f7f3734-120c-45c7-b31e-27166d4777fa")]
+[assembly: Guid("25c3c1a3-1958-4722-95ab-a642ea37f3d1")]
 
 // Version information for an assembly consists of the following four values:
 //

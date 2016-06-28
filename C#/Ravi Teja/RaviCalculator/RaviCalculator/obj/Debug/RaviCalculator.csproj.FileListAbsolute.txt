@@ -1,0 +1,7 @@
+c:\users\ravi.teja\documents\visual studio 2013\Projects\RaviCalculator\RaviCalculator\obj\Debug\RaviCalculator.csprojResolveAssemblyReference.cache
+c:\users\ravi.teja\documents\visual studio 2013\Projects\RaviCalculator\RaviCalculator\bin\Debug\RaviCalculator.dll
+c:\users\ravi.teja\documents\visual studio 2013\Projects\RaviCalculator\RaviCalculator\bin\Debug\RaviCalculator.pdb
+c:\users\ravi.teja\documents\visual studio 2013\Projects\RaviCalculator\RaviCalculator\obj\Debug\RaviCalculator.dll
+c:\users\ravi.teja\documents\visual studio 2013\Projects\RaviCalculator\RaviCalculator\obj\Debug\RaviCalculator.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RaviCalculator\RaviCalculator\bin\Debug\TejaCalculator.exe
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RaviCalculator\RaviCalculator\bin\Debug\TejaCalculator.pdb

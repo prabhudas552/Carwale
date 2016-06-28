@@ -5,3 +5,10 @@ c:\users\meet.shah\documents\visual studio 2013\Projects\ClassLibrary1\Calculato
 c:\users\meet.shah\documents\visual studio 2013\Projects\ClassLibrary1\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
 c:\users\meet.shah\documents\visual studio 2013\Projects\ClassLibrary1\Calculator\obj\Debug\Calculator.exe
 c:\users\meet.shah\documents\visual studio 2013\Projects\ClassLibrary1\Calculator\obj\Debug\Calculator.pdb
+C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\Calculator\bin\Debug\CalculatorLib.dll
+C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\Calculator\bin\Debug\CalculatorLib.pdb
+C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache

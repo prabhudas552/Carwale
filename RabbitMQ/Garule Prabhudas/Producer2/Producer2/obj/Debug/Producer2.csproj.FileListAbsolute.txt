@@ -1,0 +1,11 @@
+F:\Carwale\rabbitMQ\Assignment\Producer2\Producer2\bin\Debug\Producer2.exe.config
+F:\Carwale\rabbitMQ\Assignment\Producer2\Producer2\bin\Debug\Producer2.exe
+F:\Carwale\rabbitMQ\Assignment\Producer2\Producer2\bin\Debug\Producer2.pdb
+F:\Carwale\rabbitMQ\Assignment\Producer2\Producer2\bin\Debug\RabbitMQ.Client.dll
+F:\Carwale\rabbitMQ\Assignment\Producer2\Producer2\bin\Debug\RabbitMQ.Client.xml
+F:\Carwale\rabbitMQ\Assignment\Producer2\Producer2\obj\Debug\Producer2.csprojResolveAssemblyReference.cache
+F:\Carwale\rabbitMQ\Assignment\Producer2\Producer2\obj\Debug\Producer2.exe
+F:\Carwale\rabbitMQ\Assignment\Producer2\Producer2\obj\Debug\Producer2.pdb
+C:\Users\Prabhudas\Documents\GitHub\RabbitMQ\Garule Prabhudas\Producer2\Producer2\bin\Debug\Producer2.exe.config
+C:\Users\Prabhudas\Documents\GitHub\RabbitMQ\Garule Prabhudas\Producer2\Producer2\obj\Debug\Producer2.exe
+C:\Users\Prabhudas\Documents\GitHub\RabbitMQ\Garule Prabhudas\Producer2\Producer2\obj\Debug\Producer2.pdb

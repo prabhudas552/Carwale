@@ -1,0 +1,7 @@
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\RabbitMQ_Ravi\obj\Debug\RabbitMQ_Ravi.exe
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\RabbitMQ_Ravi\obj\Debug\RabbitMQ_Ravi.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\RabbitMQ_Ravi\bin\Debug\RabbitMQ_Ravi.exe
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\RabbitMQ_Ravi\bin\Debug\RabbitMQ_Ravi.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\RabbitMQ_Ravi\bin\Debug\RabbitMQ.Client.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\RabbitMQ_Ravi\bin\Debug\RabbitMQ.Client.xml
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\RabbitMQ_Ravi\obj\Debug\ProducerMessi.csprojResolveAssemblyReference.cache

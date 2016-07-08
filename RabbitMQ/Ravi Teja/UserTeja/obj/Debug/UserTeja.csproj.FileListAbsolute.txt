@@ -1,0 +1,7 @@
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\UserTeja\bin\Debug\UserTeja.exe
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\UserTeja\bin\Debug\UserTeja.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\UserTeja\bin\Debug\RabbitMQ.Client.dll
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\UserTeja\bin\Debug\RabbitMQ.Client.xml
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\UserTeja\obj\Debug\UserTeja.exe
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\UserTeja\obj\Debug\UserTeja.pdb
+C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RabbitMQ_Ravi\UserTeja\obj\Debug\UserTeja.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+c:\users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerB\ProducerB\bin\Debug\ProducerB.exe
+c:\users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerB\ProducerB\bin\Debug\ProducerB.pdb
+c:\users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerB\ProducerB\bin\Debug\RabbitMQ.Client.dll
+c:\users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerB\ProducerB\bin\Debug\RabbitMQ.Client.xml
+c:\users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerB\ProducerB\obj\Debug\ProducerB.exe
+c:\users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerB\ProducerB\obj\Debug\ProducerB.pdb
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\ProducerB\ProducerB\obj\Debug\ProducerB.exe
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\ProducerB\ProducerB\obj\Debug\ProducerB.pdb
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerB\obj\Debug\ProducerB.exe
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerB\obj\Debug\ProducerB.pdb
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerB\bin\Debug\ProducerB.exe
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerB\bin\Debug\ProducerB.pdb
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerB\bin\Debug\RabbitMQ.Client.xml
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerB\obj\Debug\ProducerB.csprojResolveAssemblyReference.cache

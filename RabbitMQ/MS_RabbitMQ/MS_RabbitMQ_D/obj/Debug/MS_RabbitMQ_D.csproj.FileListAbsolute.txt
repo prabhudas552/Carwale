@@ -1,0 +1,6 @@
+C:\Users\meet.shah\Documents\Visual Studio 2013\Projects\MS_RabbitMQ\MS_RabbitMQ_D\bin\Debug\MS_RabbitMQ_D.exe
+C:\Users\meet.shah\Documents\Visual Studio 2013\Projects\MS_RabbitMQ\MS_RabbitMQ_D\bin\Debug\RabbitMQ.Client.dll
+C:\Users\meet.shah\documents\visual studio 2013\Projects\MS_RabbitMQ\MS_RabbitMQ_D\bin\Debug\MS_RabbitMQ_D.pdb
+C:\Users\meet.shah\documents\visual studio 2013\Projects\MS_RabbitMQ\MS_RabbitMQ_D\bin\Debug\RabbitMQ.Client.xml
+C:\Users\meet.shah\documents\visual studio 2013\Projects\MS_RabbitMQ\MS_RabbitMQ_D\obj\Debug\MS_RabbitMQ_D.exe
+C:\Users\meet.shah\documents\visual studio 2013\Projects\MS_RabbitMQ\MS_RabbitMQ_D\obj\Debug\MS_RabbitMQ_D.pdb

@@ -1,0 +1,6 @@
+C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\RabbitMQProducer\Receiver1\bin\Debug\Receiver1.pdb
+C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\RabbitMQProducer\Receiver1\bin\Debug\RabbitMQ.Client.dll
+C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\RabbitMQProducer\Receiver1\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\RabbitMQProducer\Receiver1\obj\Debug\Receiver1.pdb
+C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\RabbitMQProducer\Receiver1\bin\Debug\Receiver1.exe
+C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\RabbitMQProducer\Receiver1\obj\Debug\Receiver1.exe

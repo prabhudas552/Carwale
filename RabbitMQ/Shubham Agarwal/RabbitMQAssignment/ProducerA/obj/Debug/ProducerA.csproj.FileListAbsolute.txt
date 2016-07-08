@@ -1,0 +1,15 @@
+C:\Users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerA\ProducerA\bin\Debug\ProducerA.pdb
+C:\Users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerA\ProducerA\bin\Debug\RabbitMQ.Client.dll
+C:\Users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerA\ProducerA\bin\Debug\RabbitMQ.Client.xml
+C:\Users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerA\ProducerA\obj\Debug\ProducerA.csprojResolveAssemblyReference.cache
+C:\Users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerA\ProducerA\obj\Debug\ProducerA.pdb
+C:\Users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerA\ProducerA\bin\Debug\ProducerA.exe
+C:\Users\shubham.agarwal\documents\visual studio 2013\Projects\ProducerA\ProducerA\obj\Debug\ProducerA.exe
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\ProducerA\ProducerA\obj\Debug\ProducerA.exe
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\ProducerA\ProducerA\obj\Debug\ProducerA.pdb
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerA\obj\Debug\ProducerA.exe
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerA\obj\Debug\ProducerA.pdb
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerA\bin\Debug\ProducerA.exe
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerA\bin\Debug\ProducerA.pdb
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerA\bin\Debug\RabbitMQ.Client.xml
+C:\Users\shubham.agarwal\Desktop\RabbitMQ\RabbitMQAssignment\ProducerA\obj\Debug\ProducerA.csprojResolveAssemblyReference.cache

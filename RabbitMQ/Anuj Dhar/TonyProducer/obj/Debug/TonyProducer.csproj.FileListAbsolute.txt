@@ -1,0 +1,7 @@
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\TonyProducer\bin\Debug\TonyProducer.exe
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\TonyProducer\bin\Debug\TonyProducer.pdb
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\TonyProducer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\TonyProducer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\TonyProducer\obj\Debug\TonyProducer.csprojResolveAssemblyReference.cache
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\TonyProducer\obj\Debug\TonyProducer.exe
+C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\TonyProducer\obj\Debug\TonyProducer.pdb

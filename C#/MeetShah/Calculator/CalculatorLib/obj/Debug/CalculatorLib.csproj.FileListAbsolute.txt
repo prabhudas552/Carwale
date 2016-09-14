@@ -1,9 +1,0 @@
-c:\users\meet.shah\documents\visual studio 2013\Projects\ClassLibrary1\CalculatorLib\bin\Debug\CalculatorLib.dll
-c:\users\meet.shah\documents\visual studio 2013\Projects\ClassLibrary1\CalculatorLib\bin\Debug\CalculatorLib.pdb
-c:\users\meet.shah\documents\visual studio 2013\Projects\ClassLibrary1\CalculatorLib\obj\Debug\CalculatorLib.dll
-c:\users\meet.shah\documents\visual studio 2013\Projects\ClassLibrary1\CalculatorLib\obj\Debug\CalculatorLib.pdb
-C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\CalculatorLib\obj\Debug\CalculatorLib.csprojResolveAssemblyReference.cache
-C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\CalculatorLib\obj\Debug\CalculatorLib.dll
-C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\CalculatorLib\bin\Debug\CalculatorLib.dll
-C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\CalculatorLib\bin\Debug\CalculatorLib.pdb
-C:\Users\meet.shah\Documents\GitAssignment\C#\MeetShah\Calculator\CalculatorLib\obj\Debug\CalculatorLib.pdb

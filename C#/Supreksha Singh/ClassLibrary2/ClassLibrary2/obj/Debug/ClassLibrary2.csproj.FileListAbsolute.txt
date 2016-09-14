@@ -1,7 +1,0 @@
-C:\Users\supreksha.singh\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
-C:\Users\supreksha.singh\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.exe
-C:\Users\supreksha.singh\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
-C:\Users\supreksha.singh\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary1.dll
-C:\Users\supreksha.singh\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
-C:\Users\supreksha.singh\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.exe
-C:\Users\supreksha.singh\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

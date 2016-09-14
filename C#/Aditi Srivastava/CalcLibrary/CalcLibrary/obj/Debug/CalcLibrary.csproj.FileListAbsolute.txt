@@ -1,5 +1,0 @@
-C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\CalcLibrary\CalcLibrary\bin\Debug\CalcLibrary.dll
-C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\CalcLibrary\CalcLibrary\bin\Debug\CalcLibrary.pdb
-C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.csprojResolveAssemblyReference.cache
-C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.dll
-C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.pdb

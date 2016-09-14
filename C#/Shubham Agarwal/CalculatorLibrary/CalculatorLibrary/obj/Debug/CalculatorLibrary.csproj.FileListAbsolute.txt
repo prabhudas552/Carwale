@@ -1,4 +1,0 @@
-c:\users\shubham.agarwal\documents\visual studio 2013\Projects\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
-c:\users\shubham.agarwal\documents\visual studio 2013\Projects\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
-c:\users\shubham.agarwal\documents\visual studio 2013\Projects\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
-c:\users\shubham.agarwal\documents\visual studio 2013\Projects\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

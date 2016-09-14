@@ -1,7 +1,0 @@
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\EvansConsumer\bin\Debug\EvansConsumer.exe
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\EvansConsumer\bin\Debug\EvansConsumer.pdb
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\EvansConsumer\bin\Debug\RabbitMQ.Client.dll
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\EvansConsumer\bin\Debug\RabbitMQ.Client.xml
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\EvansConsumer\obj\Debug\EvansConsumer.csprojResolveAssemblyReference.cache
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\EvansConsumer\obj\Debug\EvansConsumer.exe
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\EvansConsumer\obj\Debug\EvansConsumer.pdb

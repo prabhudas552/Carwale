@@ -1,7 +1,0 @@
-F:\Carwale\C#\MyCaclulator\User\bin\Debug\User.exe
-F:\Carwale\C#\MyCaclulator\User\bin\Debug\User.pdb
-F:\Carwale\C#\MyCaclulator\User\bin\Debug\MyCaclulator.dll
-F:\Carwale\C#\MyCaclulator\User\bin\Debug\MyCaclulator.pdb
-F:\Carwale\C#\MyCaclulator\User\obj\Debug\User.csprojResolveAssemblyReference.cache
-F:\Carwale\C#\MyCaclulator\User\obj\Debug\User.exe
-F:\Carwale\C#\MyCaclulator\User\obj\Debug\User.pdb

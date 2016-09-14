@@ -1,7 +1,0 @@
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\rabbitReceiver\rabbitReceiver\bin\Debug\rabbitReceiver.pdb
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\rabbitReceiver\rabbitReceiver\bin\Debug\RabbitMQ.Client.dll
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\rabbitReceiver\rabbitReceiver\bin\Debug\RabbitMQ.ServiceModel.dll
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\rabbitReceiver\rabbitReceiver\obj\Debug\rabbitReceiver.pdb
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\rabbitReceiver\rabbitReceiver\bin\Debug\rabbitReceiver.exe
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\rabbitReceiver\rabbitReceiver\obj\Debug\rabbitReceiver.exe
-C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\rabbitReceiver\rabbitReceiver\obj\Debug\rabbitReceiver.csprojResolveAssemblyReference.cache

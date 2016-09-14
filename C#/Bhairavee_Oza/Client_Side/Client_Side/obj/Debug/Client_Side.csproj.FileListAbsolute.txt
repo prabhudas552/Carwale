@@ -1,7 +1,0 @@
-c:\users\bhairaveer.oza\documents\visual studio 2013\Projects\Client_Side\Client_Side\obj\Debug\Client_Side.csprojResolveAssemblyReference.cache
-c:\users\bhairaveer.oza\documents\visual studio 2013\Projects\Client_Side\Client_Side\bin\Debug\Client_Side.pdb
-c:\users\bhairaveer.oza\documents\visual studio 2013\Projects\Client_Side\Client_Side\bin\Debug\Calculator_Lib.dll
-c:\users\bhairaveer.oza\documents\visual studio 2013\Projects\Client_Side\Client_Side\bin\Debug\Calculator_Lib.pdb
-c:\users\bhairaveer.oza\documents\visual studio 2013\Projects\Client_Side\Client_Side\obj\Debug\Client_Side.pdb
-c:\users\bhairaveer.oza\documents\visual studio 2013\Projects\Client_Side\Client_Side\bin\Debug\Client_Side.exe
-c:\users\bhairaveer.oza\documents\visual studio 2013\Projects\Client_Side\Client_Side\obj\Debug\Client_Side.exe

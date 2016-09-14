@@ -1,7 +1,0 @@
-c:\users\shubham.agarwal\documents\visual studio 2013\Projects\CalculatorLibrary\Calculator\bin\Debug\Calculator.pdb
-c:\users\shubham.agarwal\documents\visual studio 2013\Projects\CalculatorLibrary\Calculator\bin\Debug\CalculatorLibrary.dll
-c:\users\shubham.agarwal\documents\visual studio 2013\Projects\CalculatorLibrary\Calculator\bin\Debug\CalculatorLibrary.pdb
-c:\users\shubham.agarwal\documents\visual studio 2013\Projects\CalculatorLibrary\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
-c:\users\shubham.agarwal\documents\visual studio 2013\Projects\CalculatorLibrary\Calculator\obj\Debug\Calculator.pdb
-c:\users\shubham.agarwal\documents\visual studio 2013\Projects\CalculatorLibrary\Calculator\bin\Debug\Calculator.exe
-c:\users\shubham.agarwal\documents\visual studio 2013\Projects\CalculatorLibrary\Calculator\obj\Debug\Calculator.exe

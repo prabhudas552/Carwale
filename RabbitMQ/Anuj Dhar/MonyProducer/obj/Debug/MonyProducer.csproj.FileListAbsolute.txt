@@ -1,7 +1,0 @@
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\MonyProducer\bin\Debug\MonyProducer.exe
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\MonyProducer\bin\Debug\MonyProducer.pdb
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\MonyProducer\bin\Debug\RabbitMQ.Client.dll
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\MonyProducer\bin\Debug\RabbitMQ.Client.xml
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\MonyProducer\obj\Debug\MonyProducer.csprojResolveAssemblyReference.cache
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\MonyProducer\obj\Debug\MonyProducer.exe
-C:\Users\anuj.dhar\Documents\Visual Studio 2013\Projects\RabbitMQ\MonyProducer\obj\Debug\MonyProducer.pdb

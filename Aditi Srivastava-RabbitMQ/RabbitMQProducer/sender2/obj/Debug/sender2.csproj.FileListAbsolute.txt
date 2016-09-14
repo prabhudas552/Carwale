@@ -1,7 +1,0 @@
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\sender2\sender2\bin\Debug\sender2.exe
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\sender2\sender2\bin\Debug\sender2.pdb
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\sender2\sender2\bin\Debug\RabbitMQ.Client.dll
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\sender2\sender2\bin\Debug\RabbitMQ.ServiceModel.dll
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\sender2\sender2\obj\Debug\sender2.exe
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\sender2\sender2\obj\Debug\sender2.pdb
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\sender2\sender2\obj\Debug\sender2.csprojResolveAssemblyReference.cache

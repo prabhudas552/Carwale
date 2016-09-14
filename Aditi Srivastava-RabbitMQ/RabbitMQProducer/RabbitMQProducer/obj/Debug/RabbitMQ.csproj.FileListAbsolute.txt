@@ -1,7 +1,0 @@
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\RabbitMQProducer\RabbitMQProducer\bin\Debug\RabbitMQProducer.exe
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\RabbitMQProducer\RabbitMQProducer\bin\Debug\RabbitMQProducer.pdb
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\RabbitMQProducer\RabbitMQProducer\bin\Debug\RabbitMQ.Client.dll
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\RabbitMQProducer\RabbitMQProducer\obj\Debug\RabbitMQProducer.exe
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\RabbitMQProducer\RabbitMQProducer\obj\Debug\RabbitMQProducer.pdb
-c:\users\aditi.srivastava\documents\visual studio 2013\Projects\RabbitMQProducer\RabbitMQProducer\bin\Debug\RabbitMQ.ServiceModel.dll
-C:\Users\aditi.srivastava\Documents\Visual Studio 2013\Projects\RabbitMQProducer\RabbitMQProducer\obj\Debug\RabbitMQ.csprojResolveAssemblyReference.cache

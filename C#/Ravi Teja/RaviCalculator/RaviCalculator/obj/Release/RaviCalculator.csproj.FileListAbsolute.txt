@@ -1,5 +1,0 @@
-C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RaviCalculator\RaviCalculator\bin\Release\RaviCalculator.dll
-C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RaviCalculator\RaviCalculator\bin\Release\RaviCalculator.pdb
-C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RaviCalculator\RaviCalculator\obj\Release\RaviCalculator.dll
-C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RaviCalculator\RaviCalculator\obj\Release\RaviCalculator.pdb
-C:\Users\ravi.teja\Documents\Visual Studio 2013\Projects\RaviCalculator\RaviCalculator\obj\Release\RaviCalculator.csprojResolveAssemblyReference.cache

@@ -1,7 +1,0 @@
-c:\users\anuj.dhar\documents\visual studio 2013\Projects\MyClass\MyClass\bin\Debug\MyClass.exe
-c:\users\anuj.dhar\documents\visual studio 2013\Projects\MyClass\MyClass\bin\Debug\MyClass.pdb
-c:\users\anuj.dhar\documents\visual studio 2013\Projects\MyClass\MyClass\bin\Debug\ClassLibrary.dll
-c:\users\anuj.dhar\documents\visual studio 2013\Projects\MyClass\MyClass\bin\Debug\ClassLibrary.pdb
-c:\users\anuj.dhar\documents\visual studio 2013\Projects\MyClass\MyClass\obj\Debug\MyClass.csprojResolveAssemblyReference.cache
-c:\users\anuj.dhar\documents\visual studio 2013\Projects\MyClass\MyClass\obj\Debug\MyClass.exe
-c:\users\anuj.dhar\documents\visual studio 2013\Projects\MyClass\MyClass\obj\Debug\MyClass.pdb
